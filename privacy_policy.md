@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>WhiteNoise - Privacy Policy</title>
+  <title>WhiteNoiseX - Privacy Policy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body style="max-width: 800px; margin: 0 auto; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6; padding: 24px;">
@@ -10,18 +10,18 @@
   <p><strong>Last updated:</strong> 13 November 2025</p>
 
   <p>
-    This Privacy Policy explains how WhiteNoise ("we", "our", or "us") collects, uses, and protects information when you use our mobile application ("the App").
+    This Privacy Policy explains how WhiteNoiseX ("we", "our", or "us") collects, uses, and protects information when you use our mobile application ("the App").
   </p>
 
   <h2>1. Overview</h2>
   <p>
-    WhiteNoise is a mobile application that provides relaxing sounds, ambient noise and similar audio content to help users relax, focus, or sleep. We aim to collect as little personal data as possible and only use it to improve the App, keep it running reliably, and support features such as analytics, subscriptions, and advertising (if applicable).
+    WhiteNoiseX is a mobile application that provides relaxing sounds, ambient noise and similar audio content to help users relax, focus, or sleep. We aim to collect as little personal data as possible and only use it to improve the App, keep it running reliably, and support features such as analytics, subscriptions, and advertising (if applicable).
   </p>
 
   <h2>2. Information We Collect</h2>
   <h3>2.1. Information You Provide Directly</h3>
   <p>
-    In general, WhiteNoise does not require you to create an account or provide personally identifiable information to use the core features of the App. In some cases, you may choose to contact us via email or through support forms. In that case, we may receive information such as your name, email address, and the content of your message.
+    In general, WhiteNoiseX does not require you to create an account or provide personally identifiable information to use the core features of the App. In some cases, you may choose to contact us via email or through support forms. In that case, we may receive information such as your name, email address, and the content of your message.
   </p>
 
   <h3>2.2. Automatically Collected Information</h3>
@@ -61,7 +61,7 @@
 
   <h2>5. Cookies and Similar Technologies</h2>
   <p>
-    WhiteNoise itself does not use cookies in the traditional website sense. However, third-party services integrated into the App (analytics, ads, crash reporting, etc.) may use technologies similar to cookies to collect information automatically.
+    WhiteNoiseX itself does not use cookies in the traditional website sense. However, third-party services integrated into the App (analytics, ads, crash reporting, etc.) may use technologies similar to cookies to collect information automatically.
   </p>
 
   <h2>6. Data Retention</h2>
